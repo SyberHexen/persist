@@ -1,0 +1,4 @@
+
+Modem ver: M632_09.334.01.59.01R
+mot_d_hob_stg_ram.c, 582: initializing dynamic hob...
+mot_d_hob_stg_ram.c, 638: DHOB created at the factory
