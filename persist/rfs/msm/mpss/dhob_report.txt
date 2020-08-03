@@ -1,4 +1,121 @@
 
-Modem ver: M632_09.334.01.59.01R
+Modem ver: M632_16.58.01.98R
 mot_d_hob_stg_ram.c, 582: initializing dynamic hob...
 mot_d_hob_stg_ram.c, 638: DHOB created at the factory
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1059: ERR: inconsistent item flag nv/hob for nv 304:
+mot_d_hobi.c, 1060: nv  flag - 0x01
+mot_d_hobi.c, 1061: hob flag - 0x00
+mot_d_hobi.c, 991: ERR: comparision failed for nv 304
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 0
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_17.61.01.99R
+mot_d_hob_stg_ram.c, 1365: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1396: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1406: ERR: DHOB compare failed
+
+Modem ver: M632_26.100.01.120.01R
+mot_d_hob_stg_ram.c, 1345: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 0
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1377: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1387: ERR: DHOB compare failed
+
+Modem ver: M632_26.100.01.120.01R
+mot_d_hob_stg_ram.c, 1345: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 0
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1377: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1387: ERR: DHOB compare failed
+
+Modem ver: M632_26.100.01.120.01R
+mot_d_hob_stg_ram.c, 1345: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1377: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1387: ERR: DHOB compare failed
+
+Modem ver: M632_26.100.01.120.01R
+mot_d_hob_stg_ram.c, 1345: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 96
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1377: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1387: ERR: DHOB compare failed
+
+Modem ver: M632_26.100.01.120.01R
+mot_d_hob_stg_ram.c, 1345: comparing dynamic hob...
+mot_d_hobi.c, 1046: ERR: data mismatch, nv id - 4206
+mot_d_hobi.c, 1049: nv  val - 0
+mot_d_hobi.c, 1050: hob val - 96
+mot_d_hobi.c, 991: ERR: comparision failed for nv 4206
+mot_d_hob_stg_ram.c, 1377: ERR: DHOB compare mismatch
+mot_d_hob_stg_ram.c, 1387: ERR: DHOB compare failed

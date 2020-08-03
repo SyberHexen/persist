@@ -1,11 +1,11 @@
 
-Modem ver: M632_09.334.01.59.01R
+Modem ver: M632_16.58.01.98R
 mot_s_hob_amss.c, 2181: s_hob_init
-mot_s_hob_stg.c, 196: RFS read finished - in 438 ms
+mot_s_hob_stg.c, 196: RFS read finished - in 572 ms
 mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
-mot_s_hob_stg.c, 326: ERR: read -2011750652 bytes
+mot_s_hob_stg.c, 326: ERR: read -2015052732 bytes
 
-Modem ver: M632_09.334.01.59.01R
+Modem ver: M632_16.58.01.98R
 mot_s_hob_amss.c, 828: s_hob_phase_check
 mot_s_hob_amss.c, 593: ERR: HOB NV 4212 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 4953 inactive
@@ -89,13 +89,13 @@ mot_s_hob_amss.c, 593: ERR: HOB NV 27783 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 27785 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 27786 inactive
 
-Modem ver: M632_09.334.01.59.01R
+Modem ver: M632_16.58.01.98R
 mot_s_hob_amss.c, 2181: s_hob_init
-mot_s_hob_stg.c, 196: RFS read finished - in 819 ms
+mot_s_hob_stg.c, 196: RFS read finished - in 887 ms
 mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
-mot_s_hob_stg.c, 326: ERR: read -2011750652 bytes
+mot_s_hob_stg.c, 326: ERR: read -2015052732 bytes
 
-Modem ver: M632_09.334.01.59.01R
+Modem ver: M632_16.58.01.98R
 mot_s_hob_amss.c, 828: s_hob_phase_check
 mot_s_hob_amss.c, 593: ERR: HOB NV 4212 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 22982 inactive
@@ -178,9 +178,3 @@ mot_s_hob_amss.c, 593: ERR: HOB NV 27785 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 27786 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 27790 inactive
 mot_s_hob_amss.c, 593: ERR: HOB NV 27791 inactive
-
-Modem ver: M632_09.334.01.59.01R
-mot_s_hob_amss.c, 2181: s_hob_init
-mot_s_hob_stg.c, 196: RFS read finished - in 780 ms
-mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
-mot_s_hob_stg.c, 326: ERR: read -2011750652 bytes
